@@ -1,0 +1,3 @@
+function mifunción() {
+    alert("Hola!!!");
+}
